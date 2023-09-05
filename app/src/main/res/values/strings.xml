@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="student_id">Student ID:</string>
+    <string name="name">Name:</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="programme">Programme:</string>
+    <string name="enter_your_std_id">Enter your std id</string>
+    <string name="enter_your_student_id">Enter your student id</string>
+    <string name="academic_year">Academic Year:</string>
+    <string name="year">Year:</string>
+    <string name="semester">Semester:</string>
+    <string name="enter_your_modules">Enter your modules:</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_main2" />
+    <string name="student_idno">Student ID:</string>
+    <string name="nameee">Name:</string>
+    <string name="program">Program:</string>
+    <string name="academic_year2">Academic Year:</string>
+    <string name="year2">Year:</string>
+    <string name="done">Done</string>
+    <string name="exit">Exit</string>
+
+    <string-array name="programmes">
+        <item>Information Technology</item>
+        <item>Electrical</item>
+        <item>ECE</item>
+        <item>Civil</item>
+        <item>Software Engineering</item>
+        <item>Engineering Geology</item>
+    </string-array>
+
+</resources>
